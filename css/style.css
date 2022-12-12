@@ -1,0 +1,30 @@
+body{
+	background-color: #f4f4f4;
+	color: #555555;
+	font-family: Arial, Helventica, sans-serif;
+	font-size: 16px;
+	margin: 0;
+}
+.my-form{
+	padding: 20px;
+}
+.form-group{
+	padding-bottom: 15px;
+}
+.my-form label{
+	display:block;
+}
+.my-form input[type="text"], .my-form textarea{
+	padding: 8px;
+	width: 100%;
+}
+.button{
+	background-color: #333;
+	color: #fff;
+	padding: 10px, 15px;
+	border: none;
+}
+.button:hover{
+	background-color: red;
+	color: grey;
+}
